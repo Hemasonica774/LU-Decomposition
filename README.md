@@ -50,9 +50,9 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
-![image](https://user-images.githubusercontent.com/118361409/212031951-15728046-2c8c-4264-b4aa-bee12a1aae21.png)
-![image](https://user-images.githubusercontent.com/118361409/212032094-dd2c8e49-f6fa-4b6e-a2c5-24e3974d427c.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/118361409/214125356-3a280881-f3b5-435e-8807-0b45efb10c83.png)
+
+![Screenshot (58)](https://user-images.githubusercontent.com/118361409/214125408-44fcca92-dbee-46a6-87ca-70d3a0e7aed7.png)
 
 
 ## Result:
